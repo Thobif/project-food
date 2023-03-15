@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "695076180213",
-    "firebase_url": "https://testdatabase-60d08-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "testdatabase-60d08",
-    "storage_bucket": "testdatabase-60d08.appspot.com"
+    "project_number": "959059650867",
+    "project_id": "livefood-dc488",
+    "storage_bucket": "livefood-dc488.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:695076180213:android:e1e9296758c05ab54135bc",
+        "mobilesdk_app_id": "1:959059650867:android:af3798be58d5dcc8283646",
         "android_client_info": {
           "package_name": "com.example.api_flutter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "695076180213-reu0k48dcg1i9oha102mvgh2ug93knvs.apps.googleusercontent.com",
+          "client_id": "959059650867-uj3pba7ue2c5glv04fgml0b6ogjh7t86.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAF8zGCVtIuBNOd1_e7zojaIZgmHtveFvg"
+          "current_key": "AIzaSyBwQezi2_Eb-Ggh3GlRASGz5Hlc4SVHm7k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "695076180213-reu0k48dcg1i9oha102mvgh2ug93knvs.apps.googleusercontent.com",
+              "client_id": "959059650867-uj3pba7ue2c5glv04fgml0b6ogjh7t86.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
